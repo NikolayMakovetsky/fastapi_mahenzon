@@ -1,4 +1,4 @@
-## Fastapi basic
+## Fastapi lesson 1 (basic)
 
 В этом уроке:
 
